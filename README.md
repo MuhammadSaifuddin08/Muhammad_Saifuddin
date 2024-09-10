@@ -16,7 +16,8 @@ I recently completed a comprehensive Python course, where I developed a strong f
 
 Here is a project I’ve worked on:
 
-- **[Kiryana Store](kiryana_store.py):** A comprehensive grocery management system designed to handle inventory, sales, and customer management efficiently.
+- **[Kiryana Store](grocery-managment-kriyana-store-project
+):** A comprehensive grocery management system designed to handle inventory, sales, and customer management efficiently.
 
 Feel free to explore my repositories and check out my work!
 
